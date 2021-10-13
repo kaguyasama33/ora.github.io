@@ -1,0 +1,58 @@
+body {
+	background-color: #00BFFF;
+	background-image: url('images/background.jpeg');
+	}
+.awal{
+	font-family: 'Trebuchet MS', sans-serif;
+	color: grey;
+}
+.navigasi{
+	overflow: hidden;
+  	background-color: #333;
+  	position: fixed;
+  	font-family: 'Trebuchet MS', sans-serif;
+	font-size: 20px;
+ 	 top: 0;
+  	width: 100%;
+}
+.nama{
+	color: grey;
+	font-family: 'Brush Script MT', cursive;
+	font-size: 40px;
+}
+.tentang{
+	color: white;
+	font-family: 'Trebuchet MS', sans-serif;
+	font-size: 20px;
+}
+.container {
+    margin-top: 70px;
+    margin-left: 120px;
+    margin-right: 120px;
+ 	background-color: grey;
+}
+.datadiri {
+	text-align: left;
+	font-family: 'Trebuchet MS', sans-serif;
+}
+.contain {
+    margin-top: 70px;
+    margin-left: 120px;
+    margin-right: 120px;
+ 	background-color: grey;
+ 	background-image: url('images/back1.jpg');
+}
+.conten {
+	text-align: left;
+	font-family: 'Trebuchet MS', sans-serif;
+}
+.artik {
+	font-family: 'Trebuchet MS', sans-serif;
+	color: white;
+}
+.fot1 {
+		font-family: 'Trebuchet MS', sans-serif;
+		color: white;
+		background-color: grey;
+		size: 40px;
+}
